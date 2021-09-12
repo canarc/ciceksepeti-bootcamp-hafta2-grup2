@@ -1,1 +1,1 @@
-# ciceksepeti-bootcamp-hafta2-grup2
+# Çiçeksepeti bootcamp 2.hafta ders içi yapılan etkinlik
